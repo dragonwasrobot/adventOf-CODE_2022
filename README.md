@@ -9,3 +9,4 @@ languages.
 ## Languages
 
 Day 1: Prolog
+Day 2: Bash
