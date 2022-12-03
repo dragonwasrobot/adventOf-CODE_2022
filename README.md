@@ -7,5 +7,6 @@ when you can choose to hack your way through it in 25 different languages.
 
 ## Languages
 
-- Day 1: Prolog
-- Day 2: Bash
+- Day 1: [Prolog](https://www.swi-prolog.org/)
+- Day 2: [Bash](https://www.gnu.org/software/bash/)
+- Day 3: [Pharo](https://pharo.org/)
