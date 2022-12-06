@@ -13,7 +13,7 @@ ALTER TABLE day4 ADD COLUMN right_elf_start INTEGER;
 ALTER TABLE day4 ADD COLUMN right_elf_stop INTEGER;
 
 UPDATE day4 SET left_elf_start = SUBSTR(left_elf, 1, INSTR(left_elf, '-') - 1);
-UPDATE day4 SET left_elf_stop = SUBSTR(left_elf, INSTR(left_el, '-') + 1);
+UPDATE day4 SET left_elf_stop = SUBSTR(left_elf, INSTR(left_elf, '-') + 1);
 UPDATE day4 SET right_elf_start = SUBSTR(right_elf, 1, INSTR(right_elf, '-') - 1);
 UPDATE day4 SET right_elf_stop = SUBSTR(right_elf, INSTR(right_elf, '-') + 1);
 
