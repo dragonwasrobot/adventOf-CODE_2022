@@ -1,3 +1,4 @@
 # dot-gitignore
 
 .DS_Store
+*-input.txt
