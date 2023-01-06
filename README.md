@@ -19,3 +19,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 10: [Swift](https://www.swift.org/)
 - Day 11: [OCaml](https://ocaml.org/)
 - Day 12: [Lua](https://www.lua.org/)
+- Day 13: [Racket](https://racket-lang.org/)
