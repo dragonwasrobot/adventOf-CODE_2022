@@ -20,3 +20,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 11: [OCaml](https://ocaml.org/)
 - Day 12: [Lua](https://www.lua.org/)
 - Day 13: [Racket](https://racket-lang.org/)
+- Day 14: [Crystal](https://crystal-lang.org/)
