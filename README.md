@@ -24,3 +24,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 15: [Gleam](https://gleam.run/)
 - Day 16: [Dart](https://dart.dev/)
 - Day 17: [Clojure](https://clojure.org/)
+- Day 18: [Groovy](http://www.groovy-lang.org/)
