@@ -27,3 +27,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 18: [Groovy](http://www.groovy-lang.org/)
 - Day 19: [Rust](https://www.rust-lang.org/)
 - Day 20: [Elm](https://elm-lang.org/)
+- Day 21: [D](https://dlang.org/)
