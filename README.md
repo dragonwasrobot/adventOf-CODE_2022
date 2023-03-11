@@ -29,3 +29,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 20: [Elm](https://elm-lang.org/)
 - Day 21: [D](https://dlang.org/)
 - Day 22: [JavaScript/node.js](https://nodejs.org/)
+- Day 23: [Python](https://www.python.org/)
