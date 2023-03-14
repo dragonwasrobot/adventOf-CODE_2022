@@ -31,3 +31,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 22: [JavaScript/node.js](https://nodejs.org/)
 - Day 23: [Python](https://www.python.org/)
 - Day 24: [Kotlin](https://kotlinlang.org/)
+- Day 25: [Elixir](https://elixir-lang.org/)
