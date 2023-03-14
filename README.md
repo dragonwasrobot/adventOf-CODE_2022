@@ -30,3 +30,4 @@ when you can choose to hack your way through it in 25 different languages.
 - Day 21: [D](https://dlang.org/)
 - Day 22: [JavaScript/node.js](https://nodejs.org/)
 - Day 23: [Python](https://www.python.org/)
+- Day 24: [Kotlin](https://kotlinlang.org/)
